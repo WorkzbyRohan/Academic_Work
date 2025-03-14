@@ -1,0 +1,8 @@
+Q1:"Implement a recursive function to compute find
+the factorial of a number and use it in a mathematical 
+formula to display results with fixed precision."
+
+Q2:"Write a C++ program that generates 
+a sequence of terms using two different formulas 
+based on whether a number is even or odd, and calculates the total sum of these terms from 4 to 50."
+
